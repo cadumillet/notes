@@ -3,6 +3,7 @@ These are my notes to help me keep things organized. It's not my goal here to di
 
 ## Links
 - [Github Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-markdown)
+- [Git Style Guide](https://udacity.github.io/git-styleguide/index.html)
 
 ## Checklists and Reminders
 
@@ -58,3 +59,5 @@ Think about the structure, some technologies and repositories.
 - [ ] Styled components
 - [ ] CORS: Access-Control-Allow-Origin
 - [ ] NPM scripts: start, build
+- [ ] Database Maintenance and Cleanup
+- [ ] JS Monorepo
