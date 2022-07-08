@@ -19,18 +19,19 @@ Almost every day I learn about something new, so I thought that it would be nice
 - Database: MongoDB (Atlas, Compass, Mongo Shell)
 - HTTP: Axios, JQueryAJAX, FetchAPI
 - State Management: Redux, Context API
-- Tools: Superplate
+- Tools: Superplate, Strapi
 
 ### Build
 Think about the structure, some technologies and repositories.
 
 - Components Libraries: Bootstrap, MUI, Tailwind
 - Forms and validation: Formik, Yup, Joi
+- Captcha: GeeTest
 - Version Control Systems: Github
 
 ### Test
 
-- Runtime: Jest
+- Runtime: Jest, Cypress, Jasmine
 - Analysis: ESlint
 - Formatter: Prettier
 
@@ -55,9 +56,11 @@ Think about the structure, some technologies and repositories.
 - [ ] DevOps
 - [ ] Algorithms
 - [ ] SaaS Architecture
+- [ ] Software Architecture Patterns: SOLID, DDD, MVC
 - [ ] BFF: backend for frontend
 - [ ] Styled components
 - [ ] CORS: Access-Control-Allow-Origin
 - [ ] NPM scripts: start, build
 - [ ] Database Maintenance and Cleanup
 - [ ] JS Monorepo
+- [ ] State Management
