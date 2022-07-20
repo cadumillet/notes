@@ -25,7 +25,7 @@ Almost every day I learn about something new, so I thought that it would be nice
 Think about the structure, some technologies and repositories.
 
 - Components Libraries: Bootstrap, MUI, Tailwind
-- Forms and validation: Formik, Yup, Joi
+- Forms and validation: Formik, Yup, React Hook Form
 - Captcha: GeeTest
 - Version Control Systems: Github
 
@@ -64,3 +64,5 @@ Think about the structure, some technologies and repositories.
 - [ ] Database Maintenance and Cleanup
 - [ ] JS Monorepo
 - [ ] State Management
+- [ ] Docker
+- [ ] Yarn
