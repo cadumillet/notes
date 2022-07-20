@@ -66,3 +66,4 @@ Think about the structure, some technologies and repositories.
 - [ ] State Management
 - [ ] Docker
 - [ ] Yarn
+- [ ] ORM
