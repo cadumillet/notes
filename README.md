@@ -16,7 +16,8 @@ Almost every day I learn about something new, so I thought that it would be nice
 
 ### Environment
 - Languages and frameworks: Javascript, React, Node, Next.JS, TypeScript
-- Database: MongoDB (Atlas, Compass, Mongo Shell)
+- Database: MongoDB (Atlas, Compass, Mongo Shell), MySQL
+- Query Bulder: Sequelize (ORM), Knext.JS
 - HTTP: Axios, JQueryAJAX, FetchAPI
 - State Management: Redux, Context API
 - Tools: Superplate, Strapi
@@ -67,3 +68,4 @@ Think about the structure, some technologies and repositories.
 - [ ] Docker
 - [ ] Yarn
 - [ ] ORM
+- [X] Clean Architecture
